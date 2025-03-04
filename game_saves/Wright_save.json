@@ -1,0 +1,11 @@
+{
+    "name": "Wright",
+    "health": 100,
+    "max_health": 100,
+    "attack": 15,
+    "defense": 10,
+    "gold": 62,
+    "exp": 13,
+    "level": 1,
+    "inventory": []
+}
